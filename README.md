@@ -16,3 +16,6 @@ The Checklist App is a simple and intuitive Flutter application that allows user
 
 Follow the steps below to set up and run the Checklist App on your local machine:
 
+## Get the app from here
+
+https://play.google.com/store/apps/details?id=com.nucera.checklist
